@@ -1,8 +1,6 @@
 # Mayank Mohan Upadhyay
-Google-certified software engineer
 
-Senior software enignner at Einsite
+- Google-certified software engineer
 
-mumayank at gmail dot com
+- Senior software enignner at Einsite
 
-Hyderabad, India
