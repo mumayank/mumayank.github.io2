@@ -1,3 +1,5 @@
 # Mayank Mohan Upadhyay
 Google-certified software engineer • Senior software enignner at Einsite
 
+I am an artist who engineers software. I bring with me a rich experience of over 3 years of building and maintaining production-level Android apps. I believe every great Android developer should be a sound Java developer first. Hence, I have a strong understanding of core Java concepts such as OOPS, DS&A, DP. I have realized that understanding of business-end can enhance the performance of a developer. I had run my own 2 businesses for 2 years in recent past, and thus, I have a good grip on business development as well. Lastly, a great professional, to me, is a lot more than a person being able to perform the assigned duties efficiently. Punctuality, reliability, loyalty, respecting teammates and their time, valuing customer, communicating efficiently, and being fundamentally a good person that others can enjoy working with - are the key traits of a professional that I try to be. Currently I'm moving towards full stack development.
+
